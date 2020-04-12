@@ -9,13 +9,13 @@ $date_format = date('d M Y H:i'); // set date format; see: https://www.php.net/m
 $entriesperpage = 6; // entries (articles) per page to show; 
 $pagination_range = 2; // pagination_range of num links to show
 $all_categories = array( // edit and add name of the categories to your own needs 
-	'Friends',
-	'Family',
-	'Collegas',
-	'Club',
-	'Other1',
-	'Other2',
-	'undefined'
+	'Road bikes',
+	'MTB bikes',
+	'City bikes',
+	'Electric bikes',
+	'Other 1',
+	'Other 2',
+	'Other 3'
 );
 $valuta = '&euro;'; // set your own valuta
 $allowed_ext = array('jpg','jpeg','png','gif'); // allowed extensions for image upload
