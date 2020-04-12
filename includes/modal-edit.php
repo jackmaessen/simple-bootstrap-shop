@@ -28,7 +28,7 @@ if(!isset($_SESSION['shop_login'])){
 				<div class="form-group">
 				    <label>Category:</label>
 				    <select class="selectbox form-control" name="set_category">
-					    <option value="<?php echo $category; ?>" selected disabled><?php echo $category; ?></option> <!-- set current category as default -->
+					    <option value="<?php echo $category; ?>" selected><?php echo $category; ?></option> <!-- set current category as default -->
 						<?php 						
 							
 							$arr_length = count($all_categories); // count the number of categories							
