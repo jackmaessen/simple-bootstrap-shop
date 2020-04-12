@@ -3,7 +3,7 @@ Simple Bootstrap 4 shop
 
 Based on https://github.com/BlackrockDigital/startbootstrap-shop-homepage and 
 
-         https://startbootstrap.com/templates/shop-homepage/
+https://startbootstrap.com/templates/shop-homepage/
 
 * No databse required
 * All data stored in flat txt files
