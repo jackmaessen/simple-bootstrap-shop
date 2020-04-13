@@ -15,9 +15,9 @@ https://startbootstrap.com/templates/shop-homepage/
 * reviews
 
 ## How to use
-- Open settings.php and fill in the desired settings.
-- In index.php and admin.php place your own api key for Tinymce between the head tags (https://www.tiny.cloud/)
-- Go to admin.php and login with the username and password you did set in settings.php
+- Open **settings.php** and fill in the desired settings.
+- In **index.php** and **admin.php** place your own api key for Tinymce between the head tags (https://www.tiny.cloud/)
+- Go to **admin.php** and login with the username and password you did set in settings.php
 - Start adding articles
 
 ### DEMO
