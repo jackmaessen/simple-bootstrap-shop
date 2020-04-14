@@ -23,7 +23,7 @@ https://startbootstrap.com/templates/shop-homepage/
 ### DEMO
 http://shop.webprofis.nl/index.php
 
-http://shop.webprofis.nl/admin.php 
+http://shop.webprofis.nl/admin.php (username: admin; passw: password1)
 
 
 
